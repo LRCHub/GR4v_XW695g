@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "クロニクル",
+  "base_artist": "針原 翼（はりーP）、初音ミク",
+  "createdAt": "2025-12-29T16:58:36.887560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クロニクル",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/01_クロニクル_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クロニクル",
+      "artist": "NIGHTMARE",
+      "has_synced": false,
+      "path": "select/02_クロニクル_NIGHTMARE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クロニクル (feat. 初音ミク)",
+      "artist": "針原 翼(はりーP)",
+      "has_synced": false,
+      "path": "select/pl_01_クロニクル_(feat._初音ミク)_針原_翼(はりーP).txt"
+    }
+  ]
+}
